@@ -8,7 +8,7 @@
 
 I am a Front End Developer with a huge love for ReactJS . Currently, **I'm open to work and employment opportunities**.
 
-I actively code on React , NextJS.
+I actively code on ReactJS , NextJS.
 
 I love to listen to music.
 
