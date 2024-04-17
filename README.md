@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 
-I am a Front End Developer with a huge love for React.js . Currently, **I'm open to work and employment opportunities**.
+I am a Front End Developer with a huge love for ReactJS . Currently, **I'm open to work and employment opportunities**.
 
 I actively code on React , NextJS.
 
